@@ -8,5 +8,7 @@ num2 = input("enter another number:")
 
 print(int(num1)+int(num2))
 
+print("this is python")
+
 
 
